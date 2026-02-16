@@ -1,0 +1,11 @@
+id,brawler_a_id,brawler_b_id,map_id,win_rate_a_vs_b,sample_size,Notes
+1,1 (Mortis),2 (Dyna),101,74.2,15400,Strong Counter
+2,2 (Dyna),1 (Mortis),101,25.8,15400,Weak Matchup
+3,4 (Piper),3 (Shelly),102,68.5,8200,Range Advantage
+4,99 (Glowbert),4 (Piper),102,52.1,12000,New Meta Pick
+5,5 (El Primo),4 (Piper),103,55.4,9100,Bush Camping
+6,1 (Mortis),99 (Glowbert),101,41.2,7500,Glowbert Kiting
+7,4 (Piper),2 (Dyna),102,71,5400,Sniper vs Thrower
+8,98 (Ziggy),1 (Mortis),104,59.8,6300,Skill Dependent
+9,3 (Shelly),5 (El Primo),104,64.2,11200,Tank Shredder
+10,2 (Dyna),4 (Piper),101,47.5,4200,Map Obstacles
