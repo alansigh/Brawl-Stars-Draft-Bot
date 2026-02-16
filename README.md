@@ -6,7 +6,7 @@ This project is a Java-based application designed to assist players in drafting 
 
 *   **Database Integration**: Connects to a local MySQL database to retrieve brawler information and matchup win rates. A short sample data is provided.
 *   **Draft Assistance**: Suggests optimal picks based on the current draft state, including bans and opponent selections.
-*   **Win Rate Analysis**: Calculates the best counter-picks by analyzing historical matchup data.
+*   **Win Rate Analysis**: Calculates the best counter-picks by analyzing matchup data.
 *   **First Pick Strategy**: Offers recommendations for strong first-pick brawlers based on meta bonuses or average win rates.
 
 ## Setup
